@@ -1,0 +1,13 @@
+{
+    "name": "Bhagavad Gita Teachings",
+    "version": "1.0.0",
+    "manifest_version": 3,
+    "description": "A Chrome extension for random teachings from the Bhagavad Gita",
+    "action": {
+      "default_popup": "popup.html" 
+    },
+    "permissions": [
+      "storage" 
+    ] 
+  }
+  
